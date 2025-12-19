@@ -62,20 +62,6 @@ Python dependencies (auto-installed if missing):
 - lxml
 
 
-INSTALLATION
-------------
-
-1) Clone the repository
-
-   git clone https://github.com/yourusername/cyber-dork-parser.git
-   cd cyber-dork-parser
-
-2) Run the application
-
-   python cyber_dork_parser.py
-
-Missing dependencies will be installed automatically on first run.
-
 
 USAGE
 -----
